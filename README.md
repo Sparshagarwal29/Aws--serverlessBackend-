@@ -4,7 +4,9 @@ A fully serverless REST API built on AWS that performs **Create, Read, Update, a
 
 ---
 #server Architure 
-D:\AWS-CRUD-Serverless-main\Architure.png
+
+
+<img width="800" height="358" alt="433010512-98a368e1-1974-4f91-9488-e69c6f122af5" src="https://github.com/user-attachments/assets/76d68668-0450-4199-bab2-193e68c487a3" />
 
 
 
