@@ -3,6 +3,10 @@
 A fully serverless REST API built on AWS that performs **Create, Read, Update, and Delete (CRUD)** operations on a DynamoDB database. The project uses a Coffee Shop Menu as the data model — each item in the database represents a coffee product with an ID, name, price, and availability status.
 
 ---
+#server Architure 
+D:\AWS-CRUD-Serverless-main\Architure.png
+
+
 
 ## Architecture Overview
 
